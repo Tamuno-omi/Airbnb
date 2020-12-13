@@ -1,5 +1,3 @@
-#A Look at AirBnB Homes in Capetown
-
 ### Table of Contents
 
 1. [Installation](#installation)
