@@ -24,7 +24,7 @@ I decided to take a look at the airbnb dataset provided for the city on http://i
 
 ## File Descriptions <a name="files"></a>
 
-There is a single notebook available here to showcase my work related to the above questions. It is exploratory in searching through the data pertaining to the questions showcased by the notebook title.  Markdown cells & comments were used to assist in walking through the thought process for individual steps.  
+There is a single notebook available here to showcase my work related to the above questions. It is exploratory in searching through the data pertaining to the questions showcased by the notebook title.  Markdown cells & comments were used to assist in walking through the thought process for individual steps. The dataset used in this project is also provided in this repository and can also be found in the link below. 
 
 
 ## Results<a name="results"></a>
