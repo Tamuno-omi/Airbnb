@@ -16,7 +16,7 @@ There should be no necessary libraries to run the code here beyond the Anaconda 
 
 I decided to take a look at the airbnb dataset provided for the city on http://insideairbnb.com/, and see how I can gain various insights like:
 
-1) What are the various room listed on Airbnb in Capetown.
+1) What are the various room types listed on Airbnb in Capetown.
 2) What are the most popular property types in the city.
 3) What is the average price for the various room types.
 4) A look at availibility of Listings in a year.
